@@ -1,3 +1,9 @@
+# React Registration form
+This is a registration form in react js without using external package or library. 
+Fields are validated using React Hooks. 
+
+![Screenshot 2023-09-21 143512](https://github.com/DharshiBalasubramaniyam/React-Registration-Form/assets/139672976/429e4c47-6b60-4100-8de3-dabaf020082c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
