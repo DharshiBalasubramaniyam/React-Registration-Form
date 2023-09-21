@@ -35,7 +35,6 @@ h1 {
     color: var(--blue); margin-bottom: 5px;
 }
 .input-box {
-    /* background-color: aqua; */
     margin: 5px 0;
     width: 100%;
 }
@@ -66,4 +65,15 @@ input[type='submit']:hover {
 }
 a:hover {
     text-decoration: underline;
+}
+
+small {
+    color: rgb(255, 0, 0);
+}
+
+p {
+    color: rgb(53, 177, 53);
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(225, 255, 225); width: 100%;text-align: center;
 }
